@@ -1,0 +1,31 @@
+﻿Id,Tiempo,Riesgo,Instrumento Id,Instrumento rendimiento,Instrumento nombre
+1,Corto,Bajo,1,0.9,Pagare Hey banco
+2,Largo,Bajo,2,0.84,Cetes (1 mes)
+3,Mediano,Bajo,3,0.1,Cetes (1 año)
+4,Largo,Mediano,4,0.12,Finsus (1 año)
+5,Mediano,Mediano,5,0.12,Kubo financiero (1 año)
+6,Largo,Alto,6,0.1,SP&500
+7,Mediano,Alto,7,0.7,Fibra Monterrey
+8,Mediano,Mediano,5,0.12,Kubo financiero (1 año)
+9,Mediano,Bajo,2,0.1,Cetes (1 año)
+10,Corto,Bajo,1,0.9,Pagare Hey banco
+11,Mediano,Mediano,5,0.12,Kubo financiero (1 año)
+12,Corto,Bajo,1,0.9,Pagare Hey banco
+13,Largo,Mediano,4,0.12,Finsus (1 año)
+14,Largo,Alto,6,0.1,SP&500
+15,Mediano,Alto,7,0.7,Fibra Monterrey
+16,Mediano,Bajo,3,0.1,Cetes (1 año)
+17,Largo,Bajo,2,0.84,Cetes (1 mes)
+18,Mediano,Alto,7,0.7,Fibra Monterrey
+19,Largo,Mediano,4,0.12,Finsus (1 año)
+20,Corto,Bajo,1,0.9,Pagare Hey banco
+21,Largo,Alto,6,0.1,SP&500
+22,Largo,Mediano,4,0.12,Finsus (1 año)
+23,Corto,Bajo,1,0.9,Pagare Hey banco
+24,Largo,Alto,6,0.1,SP&500
+25,Mediano,Bajo,3,0.1,Cetes (1 año)
+26,Largo,Bajo,2,0.84,Cetes (1 mes)
+27,Largo,Mediano,4,0.12,Finsus (1 año)
+28,Corto,Bajo,1,0.9,Pagare Hey banco
+29,Mediano,Mediano,5,0.12,Kubo financiero (1 año)
+30,Mediano,Alto,7,0.7,Fibra Monterrey
